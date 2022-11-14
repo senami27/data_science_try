@@ -22,3 +22,5 @@
 -Учимся писать хороший код на Python.\
 -Учимся работать с IDE.\
 -Учимся работать с GitHub.
+
+:arrow_up:[к оглавлению](https://github.com/senami27/data_science_try/tree/main/project_0#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
