@@ -20,7 +20,7 @@ def random_predict(number:int=1) -> int:
         count += 1
         mid = round((min+max) / 2)
         predict_number = np.random.randint(min,max)
-        print(number,predict_number,mid)
+        #print(number,predict_number,mid)
         if number == predict_number:
             break
         elif mid > number:
